@@ -33,7 +33,7 @@ The key features of the Marketing Agency include:
     ```bash
     # Clone this repository.
     git clone https://github.com/talvarez-cloud/endava-us-agenthon.git
-    cd endava-apac-agentthon/marketing-agency
+    cd endava-us-agenthon/marketing-agency
     # Install the package and dependencies.
     pip install -r requirements.txt
     ```
