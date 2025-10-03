@@ -52,7 +52,7 @@ The key features of the Marketing Agency include:
         export GOOGLE_CLOUD_STORAGE_BUCKET=<your-storage-bucket>  # Only required for deployment on Agent Engine
         ```
 
-    *   Authenticate your GCloud account. If you loign via the Google CLoud Console, you are already authenticated!
+    *   Authenticate your Google Cloud account. If you login via the Google Cloud Console, you are already authenticated!
     *   No need to run the glcoud auth command. Go to the next step.  You are almost there!
 
         ```bash
